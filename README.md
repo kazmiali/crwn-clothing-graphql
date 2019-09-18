@@ -1,4 +1,4 @@
-# Crwn-Clothing - React App w/ Redux, Firebase & Stripe.
+# Crwn-Clothing - React App w/ GraphQL, Firebase & Stripe.
 
 - Its a E-Commerce clothing store, created with React, apollo-graphql, apollo-client, graphql, Firebase, and Stripe with basic NodeJS Express server.
 
